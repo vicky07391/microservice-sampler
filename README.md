@@ -1,5 +1,7 @@
 #Microservices with Docker, Spring Boot, Spring Cloud and Axon
 
+https://dzone.com/articles/microservices-with-spring-boot-axon-cqrses-anddock
+
 This is a non-trivial demonstration of how to build a CQRS microservice application consisting of several collaborating microservices. It combines together all of the following elements in order to produce one logical application - a simple Product Master Data service.
 
  - Service gateway and registry using [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/) (Zuul, Eureka)
